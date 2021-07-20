@@ -19,3 +19,6 @@
 [submodule "nv-ide"]
 	path = nv-ide
 	url = https://github.com/crivotz/nv-ide
+[submodule "VapourNvim"]
+	path = VapourNvim
+	url = https://github.com/hackorum/VapourNvim
