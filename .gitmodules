@@ -22,3 +22,6 @@
 [submodule "VapourNvim"]
 	path = VapourNvim
 	url = https://github.com/hackorum/VapourNvim
+[submodule "hamsterBiscuit-nvim"]
+	path = hamsterBiscuit-nvim
+	url = https://github.com/hamsterBiscuit/nvim
