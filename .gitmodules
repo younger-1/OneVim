@@ -7,3 +7,6 @@
 [submodule "NvChad"]
 	path = NvChad
 	url = https://github.com/siduck76/NvChad
+[submodule "defaults.nvim"]
+	path = defaults.nvim
+	url = https://github.com/mjlbach/defaults.nvim
