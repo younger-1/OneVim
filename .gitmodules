@@ -10,3 +10,6 @@
 [submodule "defaults.nvim"]
 	path = defaults.nvim
 	url = https://github.com/mjlbach/defaults.nvim
+[submodule "awesome-neovim"]
+	path = awesome-neovim
+	url = https://github.com/rockerBOO/awesome-neovim
