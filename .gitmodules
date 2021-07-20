@@ -1,0 +1,3 @@
+[submodule "glepnir-nvim"]
+	path = glepnir-nvim
+	url = https://github.com/glepnir/nvim
