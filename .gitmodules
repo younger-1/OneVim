@@ -28,3 +28,6 @@
 [submodule "KyleJKC-nvim"]
 	path = KyleJKC-nvim
 	url = https://github.com/KyleJKC/nvim
+[submodule "neovim-config"]
+	path = neovim-config
+	url = https://github.com/kristijanhusak/neovim-config
