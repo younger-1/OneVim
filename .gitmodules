@@ -16,3 +16,6 @@
 [submodule "doom-nvim"]
 	path = doom-nvim
 	url = https://github.com/NTBBloodbath/doom-nvim
+[submodule "nv-ide"]
+	path = nv-ide
+	url = https://github.com/crivotz/nv-ide
