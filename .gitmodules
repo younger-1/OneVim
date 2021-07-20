@@ -25,3 +25,6 @@
 [submodule "hamsterBiscuit-nvim"]
 	path = hamsterBiscuit-nvim
 	url = https://github.com/hamsterBiscuit/nvim
+[submodule "KyleJKC-nvim"]
+	path = KyleJKC-nvim
+	url = https://github.com/KyleJKC/nvim
