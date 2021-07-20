@@ -13,3 +13,6 @@
 [submodule "awesome-neovim"]
 	path = awesome-neovim
 	url = https://github.com/rockerBOO/awesome-neovim
+[submodule "doom-nvim"]
+	path = doom-nvim
+	url = https://github.com/NTBBloodbath/doom-nvim
