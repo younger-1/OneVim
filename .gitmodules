@@ -31,3 +31,6 @@
 [submodule "neovim-config"]
 	path = neovim-config
 	url = https://github.com/kristijanhusak/neovim-config
+[submodule "ayamir-nvim"]
+	path = ayamir-nvim
+	url = https://github.com/ayamir/nvimdots
