@@ -34,3 +34,6 @@
 [submodule "ayamir-nvim"]
 	path = ayamir-nvim
 	url = https://github.com/ayamir/nvimdots
+[submodule "skywind3000-vim"]
+	path = skywind3000-vim
+	url = https://github.com/skywind3000/vim-init
