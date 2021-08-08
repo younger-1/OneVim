@@ -37,3 +37,6 @@
 [submodule "skywind3000-vim"]
 	path = skywind3000-vim
 	url = https://github.com/skywind3000/vim-init
+[submodule "avimitin-vim"]
+	path = avimitin-vim
+	url = https://github.com/avimitin/nvim
