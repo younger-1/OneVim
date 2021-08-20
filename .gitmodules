@@ -38,7 +38,7 @@
 	path = skywind3000-vim
 	url = https://github.com/skywind3000/vim-init
 [submodule "avimitin-vim"]
-	path = avimitin-vim
+	path = avimitin-nvim
 	url = https://github.com/avimitin/nvim
 [submodule "NeoCode"]
 	path = NeoCode
