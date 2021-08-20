@@ -40,3 +40,6 @@
 [submodule "avimitin-vim"]
 	path = avimitin-vim
 	url = https://github.com/avimitin/nvim
+[submodule "NeoCode"]
+	path = NeoCode
+	url = https://github.com/rafamadriz/NeoCode
