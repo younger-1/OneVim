@@ -43,3 +43,6 @@
 [submodule "NeoCode"]
 	path = NeoCode
 	url = https://github.com/rafamadriz/NeoCode
+[submodule "ThinkVim"]
+	path = ThinkVim
+	url = https://github.com/imxiejie/ThinkVim
