@@ -17,7 +17,7 @@
 	path = doom-nvim
 	url = https://github.com/NTBBloodbath/doom-nvim
 [submodule "nv-ide"]
-	path = nv-ide
+	path = NV-ide
 	url = https://github.com/crivotz/nv-ide
 [submodule "VapourNvim"]
 	path = VapourNvim
@@ -28,9 +28,6 @@
 [submodule "KyleJKC-nvim"]
 	path = KyleJKC-nvim
 	url = https://github.com/KyleJKC/nvim
-[submodule "neovim-config"]
-	path = neovim-config
-	url = https://github.com/kristijanhusak/neovim-config
 [submodule "ayamir-nvim"]
 	path = ayamir-nvim
 	url = https://github.com/ayamir/nvimdots
@@ -41,8 +38,11 @@
 	path = avimitin-nvim
 	url = https://github.com/avimitin/nvim
 [submodule "NeoCode"]
-	path = NeoCode
+	path = rafamadriz-nvim
 	url = https://github.com/rafamadriz/NeoCode
 [submodule "ThinkVim"]
 	path = ThinkVim
 	url = https://github.com/imxiejie/ThinkVim
+[submodule "kyoto.nvim"]
+	path = kyoto-nvim
+	url = https://github.com/samrath2007/kyoto.nvim
