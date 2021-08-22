@@ -46,3 +46,6 @@
 [submodule "kyoto.nvim"]
 	path = kyoto-nvim
 	url = https://github.com/samrath2007/kyoto.nvim
+[submodule "k-vim"]
+	path = k-vim
+	url = https://github.com/wklken/k-vim
