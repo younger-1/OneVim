@@ -49,3 +49,9 @@
 [submodule "k-vim"]
 	path = k-vim
 	url = https://github.com/wklken/k-vim
+[submodule "jdhao-nvim"]
+	path = jdhao-nvim
+	url = https://github.com/jdhao/nvim-config
+[submodule "lsp_treesitter_lsp.nvim"]
+	path = lsp_treesitter.nvim
+	url = https://github.com/nikvdp/nvim-lsp-config
